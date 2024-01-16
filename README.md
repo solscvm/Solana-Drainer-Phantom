@@ -17,7 +17,9 @@
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D0nTpnEYgfY?si=la4_mfsVidQmtUS-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"> 
+https://youtu.be/D0nTpnEYgfY?si=fyCJ6XlF49ZAD2bk
+</div>
 
 
 #### ✅ Networks :
